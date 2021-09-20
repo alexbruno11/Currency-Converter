@@ -1,6 +1,6 @@
 # Currency Converter
  
-<img src="assets/read.png" alt="">
+<img src="assets/mainreadme.png" alt="">
 >
 
 ### Adjustments and Improvements
