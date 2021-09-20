@@ -9,4 +9,4 @@ The project is still under development and future updates will focus on the foll
 
 
 - [ ] Task 1 - Put a mask to input showing the correct format of real
-- [ ] Task 2 - Add more currencies options
+- [ ] Task 2 - Add more currencies options, like canadian dólar
