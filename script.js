@@ -6,6 +6,9 @@ const dolar = 5.2
 const euro  = 6.2
 const bitcoin = 0.0000038
 
+
+
+
 const convertValues = () => {
 
   const inputReais = document.getElementById('input-real').value
